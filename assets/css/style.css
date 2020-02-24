@@ -132,18 +132,20 @@ footer p {
     margin-bottom: 2rem;
 }
 
-.github-link {
-    margin-right: .5rem;
-}
 
-.linkedin-link {
-    margin-left: .5rem;
-}
 
 
 @media screen and (min-width: 768px) {
     nav {
         position: relative;
+    }
+
+    .github-link {
+        margin-right: .5rem;
+    }
+    
+    .linkedin-link {
+        margin-left: .5rem;
     }
     .brand-name {
         padding: 1rem 2rem;
