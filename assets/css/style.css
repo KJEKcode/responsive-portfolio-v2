@@ -122,10 +122,11 @@ footer p {
 
 .portfolio-list .col {
  border: solid 1px #ccc;
+ text-align: center;
 }
 
 .portfolio-list .col a {
-    margin: .5rem 0 .5rem .5rem;
+    margin: .5rem .5rem 1rem .5rem;
    }
 
 .row .col {
